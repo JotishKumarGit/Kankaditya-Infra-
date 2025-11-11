@@ -1,0 +1,254 @@
+/* navbar style */
+/* Navbar link hover effect */
+.navbar-nav .nav-link {
+    position: relative;
+    transition: color 0.3s ease-in-out;
+}
+
+.navbar-nav .nav-link::after {
+    content: '';
+    position: absolute;
+    width: 0;
+    height: 2px;
+    left: 0;
+    bottom: -2px;
+    background-color: #198754;
+    transition: width 0.3s ease-in-out;
+}
+
+.navbar-nav .nav-link:hover::after,
+.navbar-nav .nav-link.active::after {
+    width: 100%;
+}
+
+.navbar-nav .nav-link:hover {
+    color: #145c35 !important;
+}
+
+/* Dropdown hover effect */
+.dropdown-menu .dropdown-item:hover {
+    background-color: #d1e7dd;
+}
+
+/* Button hover */
+.btn-success:hover {
+    background-color: #145c35 !important;
+    border-color: #145c35 !important;
+}
+
+/* Make topbar responsive on mobile */
+@media (max-width: 768px) {
+    .bg-success .container {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .bg-success .container .d-flex {
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+}
+
+/* about section style */
+.about-section h1 {
+    font-size: 2.5rem;
+    letter-spacing: 1px;
+}
+
+.about-section p {
+    font-size: 1.05rem;
+    line-height: 1.8;
+}
+
+.about-section .card:hover {
+    transform: translateY(-5px);
+    transition: 0.3s ease;
+    background-color: #f0fff4;
+}
+
+.about-section .btn-success:hover {
+    background-color: #145c35;
+    border-color: #145c35;
+}
+
+
+/* products css  */
+.products-section h1 {
+    font-size: 2.5rem;
+    letter-spacing: 1px;
+}
+
+.product-card {
+    position: relative;
+    transition: all 0.4s ease-in-out;
+}
+
+.product-card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+}
+
+.product-img {
+    overflow: hidden;
+}
+
+.product-img img {
+    transition: transform 0.5s ease;
+}
+
+.product-card:hover img {
+    transform: scale(1.1);
+}
+
+.product-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(25, 135, 84, 0.7);
+    opacity: 0;
+    transition: opacity 0.4s ease;
+}
+
+.product-card:hover .product-overlay {
+    opacity: 1;
+}
+
+.product-overlay a {
+    color: #fff;
+    font-weight: 600;
+}
+
+.btn-success:hover {
+    background-color: #145c35 !important;
+    border-color: #145c35 !important;
+}
+
+@media (max-width: 768px) {
+    .product-card {
+        margin-bottom: 1rem;
+    }
+}
+
+/* services css */
+.services-section h1 {
+    font-size: 2.5rem;
+    letter-spacing: 1px;
+}
+
+.service-card {
+    transition: all 0.4s ease-in-out;
+}
+
+.service-card:hover {
+    transform: translateY(-8px);
+    background-color: #f0fff4;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+}
+
+.icon-box {
+    width: 90px;
+    height: 90px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    font-size: 2rem;
+    background-color: rgba(25, 135, 84, 0.1);
+    /* light green tint */
+    color: #198754;
+    /* Bootstrap green */
+    margin: 0 auto 15px auto;
+    transition: all 0.3s ease;
+}
+
+.icon-box:hover {
+    background-color: #198754;
+    color: #fff;
+    transform: scale(1.1);
+}
+
+
+.btn-success:hover {
+    background-color: #145c35 !important;
+    border-color: #145c35 !important;
+}
+
+@media (max-width: 768px) {
+    .service-card {
+        margin-bottom: 1rem;
+    }
+}
+
+
+
+/*  FAQ css */
+
+.faq-section h1 {
+    font-size: 2.5rem;
+}
+
+.accordion-button {
+    background-color: #f0fff4;
+    border: none;
+    box-shadow: none;
+    transition: all 0.3s ease-in-out;
+}
+
+.accordion-button:not(.collapsed) {
+    background-color: #198754;
+    color: #fff;
+}
+
+.accordion-button:focus {
+    box-shadow: none;
+}
+
+.accordion-item {
+    border: 1px solid rgba(25, 135, 84, 0.2);
+    border-radius: 10px;
+    margin-bottom: 10px;
+    overflow: hidden;
+}
+
+.accordion-body {
+    background-color: #fff;
+}
+
+.accordion-item:hover {
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.1);
+}
+
+/* blog css */
+.blog-card {
+    transition: all 0.4s ease-in-out;
+    background-color: #fff;
+}
+
+.blog-card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+}
+
+.blog-img {
+    height: 220px;
+    width: 100%;
+    object-fit: cover;
+    transition: transform 0.4s ease;
+}
+
+.blog-card:hover .blog-img {
+    transform: scale(1.05);
+}
+
+.btn-outline-success:hover {
+    background-color: #198754;
+    color: #fff;
+}
+
+@media (max-width: 768px) {
+    .blog-img {
+        height: 180px;
+    }
+}
