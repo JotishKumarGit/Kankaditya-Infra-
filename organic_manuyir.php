@@ -89,39 +89,39 @@
 
                 <!-- Left Side: Product Image -->
                 <div class="col-md-6 mb-4 mb-md-0 text-center">
-                    <img src="assets/img/Vermicompost.jpg" alt="Vermicompost" height="auto" width="100%" class="img-fluid rounded shadow-sm border border-success">
+                    <img src="assets/img/organic_manuyir.jpeg" alt="Organic Manuyir" height="auto" width="100%" class="img-fluid rounded shadow-sm border border-success">
                 </div>
 
                 <!-- Right Side: Product Details -->
                 <div class="col-md-6">
-                    <h2 class="fw-bold text-success mb-3">Vermicompost</h2>
+                    <h2 class="fw-bold text-success mb-3">Organic Manuyir</h2>
                     <p class="lead text-dark">
-                        Vermicompost is a 100% organic fertilizer produced using earthworms that convert organic waste into nutrient-rich compost.
-                        It enhances soil fertility, improves crop yield, and promotes sustainable farming practices.
+                        Organic Manuyir is a 100% organic fertilizer made from natural ingredients that enrich the soil.
+                        It improves soil fertility, boosts plant growth, and supports sustainable farming practices.
                     </p>
 
                     <hr class="border-success opacity-75">
 
                     <h5 class="fw-semibold text-success mb-3">Key Benefits:</h5>
                     <ul class="list-unstyled text-dark">
-                        <li class="mb-2"> Improves soil aeration and water retention</li>
-                        <li class="mb-2"> Enriches soil with essential nutrients (N, P, K)</li>
-                        <li class="mb-2"> Enhances root growth and plant strength</li>
-                        <li class="mb-2"> Eco-friendly and sustainable organic solution</li>
-                        <li class="mb-2"> Reduces dependency on chemical fertilizers</li>
+                        <li class="mb-2">Improves soil aeration and water retention</li>
+                        <li class="mb-2">Enriches soil with essential nutrients (N, P, K)</li>
+                        <li class="mb-2">Enhances root growth and plant strength</li>
+                        <li class="mb-2">Eco-friendly and sustainable organic solution</li>
+                        <li class="mb-2">Reduces dependency on chemical fertilizers</li>
                     </ul>
 
                     <div class="mt-4">
                         <a href="#" data-bs-toggle="modal" data-bs-target="#enquiryModal" class="btn btn-success px-4 py-2 rounded-pill shadow">
-                          Enquiry Now
+                            Enquiry Now
                         </a>
-                      
                     </div>
                 </div>
 
             </div>
         </div>
     </section>
+
 
     <!-- footer -->
     <?php include('footer.php') ?>

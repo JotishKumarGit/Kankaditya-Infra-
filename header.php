@@ -53,7 +53,7 @@
                             Products
                         </a>
                         <ul class="dropdown-menu border-0 shadow-sm" aria-labelledby="productsDropdown">
-                            <li><a class="dropdown-item text-success" href="Vermicompost.php">Vermicompost</a></li>
+                            <li><a class="dropdown-item text-success" href="organic_manuyir.php">Organic Manuyir</a></li>
                             <li><a class="dropdown-item text-success" href="Coriander_Seeds.php">Coriander Seeds</a></li>
                             <li><a class="dropdown-item text-success" href="Cashew.php">Kaju</a></li>
                             <li><a class="dropdown-item text-success" href="Fox_Nuts.php">Makhana</a></li>
@@ -80,3 +80,5 @@
             </div>
         </div>
     </nav>
+
+    
