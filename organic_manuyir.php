@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> Kankaditya Infra Private Limited - Vermicompost Page</title>
+    <title> Kankaditya Infra Private Limited - Organic Manure Page</title>
     <link rel="stylesheet" href="assets/style.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
@@ -77,7 +77,7 @@
             <ol class="breadcrumb">
                 <li class="breadcrumb-item"><a href="#">Home</a></li>
                 <li class="breadcrumb-item"><a href="#">Pages</a></li>
-                <li class="breadcrumb-item active" aria-current="page">Vermicompost</li>
+                <li class="breadcrumb-item active" aria-current="page">Organic Manure</li>
             </ol>
         </nav>
     </div>
@@ -94,9 +94,9 @@
 
                 <!-- Right Side: Product Details -->
                 <div class="col-md-6">
-                    <h2 class="fw-bold text-success mb-3">Organic Manuyir</h2>
+                    <h2 class="fw-bold text-success mb-3">Organic Manure</h2>
                     <p class="lead text-dark">
-                        Organic Manuyir is a 100% organic fertilizer made from natural ingredients that enrich the soil.
+                        Organic Manure is a 100% organic fertilizer made from natural ingredients that enrich the soil.
                         It improves soil fertility, boosts plant growth, and supports sustainable farming practices.
                     </p>
 
@@ -121,7 +121,6 @@
             </div>
         </div>
     </section>
-
 
     <!-- footer -->
     <?php include('footer.php') ?>
