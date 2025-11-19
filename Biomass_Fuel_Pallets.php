@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Kankaditya Infra Private Limited - Biomass Fuel Pallets</title>
+    <title>Kankaditya Infra Private Limited - 10 mm Highly Flammable Wood Pallets</title>
     <link rel="stylesheet" href="assets/style.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
@@ -71,19 +71,19 @@
             <ol class="breadcrumb">
                 <li class="breadcrumb-item"><a href="#">Home</a></li>
                 <li class="breadcrumb-item"><a href="#">Pages</a></li>
-                <li class="breadcrumb-item active" aria-current="page">Biomass Fuel Pallets</li>
+                <li class="breadcrumb-item active" aria-current="page">10 mm Highly Flammable Wood Pallets</li>
             </ol>
         </nav>
     </div>
 
     <!-- product details -->
-    <section class="container py-5">
+     <section class="container py-5">
         <div class="bg-light rounded-4 shadow p-4 p-md-5" data-aos="fade-up" data-aos-duration="1000">
             <div class="row align-items-center">
 
                 <!-- Left Side: Product Image -->
                 <div class="col-md-6 mb-4 mb-md-0 text-center">
-                    <img src="assets/img/biomass_fuel_pallets.jpeg" alt="Biomass Fuel Pallets" height="auto" width="100%" class="img-fluid rounded shadow-sm border border-success">
+                    <img src="assets/img/biomass_fule_pallets.jpeg" alt="Biomass Fuel Pallets" height="auto" width="100%" class="img-fluid rounded shadow-sm border border-success">
                 </div>
 
                 <!-- Right Side: Product Details -->
@@ -114,7 +114,7 @@
 
             </div>
         </div>
-    </section>
+    </section> 
 
     <!-- footer -->
     <?php include('footer.php') ?>

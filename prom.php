@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Kankaditya Infra Private Limited - 10 mm Highly Flammable Wood Pallets</title>
+    <title>Kankaditya Infra Private Limited - Biomass Fuel Pallets</title>
     <link rel="stylesheet" href="assets/style.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
@@ -71,7 +71,7 @@
             <ol class="breadcrumb">
                 <li class="breadcrumb-item"><a href="#">Home</a></li>
                 <li class="breadcrumb-item"><a href="#">Pages</a></li>
-                <li class="breadcrumb-item active" aria-current="page">10 mm Highly Flammable Wood Pallets</li>
+                <li class="breadcrumb-item active" aria-current="page">Biomass Fuel Pallets</li>
             </ol>
         </nav>
     </div>
@@ -83,26 +83,27 @@
 
                 <!-- Left Side: Product Image -->
                 <div class="col-md-6 mb-4 mb-md-0 text-center">
-                    <img src="assets/img/flammable_wood_pallets.jpeg" alt="10 mm Highly Flammable Wood Pallets" height="auto" width="100%" class="img-fluid rounded shadow-sm border border-success">
+                    <img src="assets/img/flammable_wood_pallets.jpeg" alt="PROM Organic Fertilizer" height="auto" width="100%" class="img-fluid rounded shadow-sm border border-success">
                 </div>
 
                 <!-- Right Side: Product Details -->
                 <div class="col-md-6">
-                    <h2 class="fw-bold text-success mb-3">10 mm Highly Flammable Wood Pallets</h2>
+                    <h2 class="fw-bold text-success mb-3">PROM Organic Fertilizer</h2>
                     <p class="lead text-dark">
-                        Our 10 mm Highly Flammable Wood Pallets are precision-manufactured wood pellets, designed for efficient combustion and high energy output.
-                        These eco-friendly pellets are made from natural wood and provide a reliable and sustainable source of fuel for heating systems.
+                        PROM (Phosphate Rich Organic Manure) is a premium organic fertilizer enriched with 8% P₂O₅ and a balanced pH of around 6.5.
+                        It enhances soil fertility naturally and supports healthy plant growth across various soil types.
+                        Being fully organic, PROM improves soil structure, boosts microbial activity, and promotes sustainable farming.
                     </p>
 
                     <hr class="border-success opacity-75">
 
                     <h5 class="fw-semibold text-success mb-3">Key Features:</h5>
                     <ul class="list-unstyled text-dark">
-                        <li class="mb-2">Uniform 10 mm diameter for consistent burning</li>
-                        <li class="mb-2">Highly flammable – quick ignition and strong heat generation</li>
-                        <li class="mb-2">Low moisture content ensures efficient energy output</li>
-                        <li class="mb-2">Environmentally friendly alternative to fossil fuels</li>
-                        <li class="mb-2">Suitable for residential and industrial heating systems</li>
+                        <li class="mb-2">Contains 8% P₂O₅ for balanced phosphorus supply</li>
+                        <li class="mb-2">Ideal pH (≈6.5) suitable for most soil types</li>
+                        <li class="mb-2">Improves soil health and microbial activity</li>
+                        <li class="mb-2">Eco-friendly alternative to chemical fertilizers</li>
+                        <li class="mb-2">Enhances root development and crop productivity</li>
                     </ul>
 
                     <div class="mt-4">

@@ -87,7 +87,7 @@
             <!-- Heading -->
             <div class="text-center mb-5" data-aos="fade-up">
                 <h1 class="fw-bold text-success">About Us</h1>
-                <p class="text-muted mx-auto" style="max-width: 700px;">
+                <p class="text-dark mx-auto" style="max-width: 700px;">
                     Welcome to <strong>Kankaditya Infra Private Limited</strong> — a trusted name in natural and organic
                     products.
                     We believe in building a sustainable future through eco-friendly solutions and quality agricultural
@@ -104,13 +104,13 @@
 
                 <!-- Content Side -->
                 <div class="col-lg-6" data-aos="fade-left">
-                    <h3 class="text-success mb-3">Who We Are</h3>
-                    <p>
+                    <h3 class="text-success mb-3 ">Who We Are</h3>
+                    <p class="text-dark">
                         Founded with a vision to promote sustainable living,
                         <strong>Kankaditya Infra Private Limited</strong> specializes in producing and supplying
                         premium quality <em>Organic Manure, Coriander Seeds, Kaju, Makhana, and Dryfruits.</em>
                     </p>
-                    <p>
+                    <p class="text-dark">
                         Our products are carefully sourced and processed to maintain their natural purity,
                         offering nourishment, growth, and long-term environmental balance.
                     </p>

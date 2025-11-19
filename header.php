@@ -1,4 +1,5 @@
-   <!--  Topbar -->
+
+       <!--  Topbar -->
     <div class="bg-success text-white py-2">
         <div class="container d-flex justify-content-between align-items-center flex-wrap">
             <!-- Contact Info -->
@@ -26,7 +27,7 @@
     <nav class="navbar navbar-expand-lg navbar-light bg-white shadow sticky-top">
         <div class="container">
             <!-- Brand -->
-            <a class="navbar-brand fw-bold text-success" href="#">
+            <a class="navbar-brand fw-bold text-success" href="index.php">
                 Kankaditya Infra Private Limited
             </a>
 
@@ -40,7 +41,8 @@
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
                     <li class="nav-item">
-                        <a class="nav-link active text-success fw-semibold" aria-current="page" href="index.html">Home</a>
+                        <a class="nav-link active text-success fw-semibold" aria-current="page"
+                            href="index.php">Home</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link text-success fw-semibold" href="about.php">About</a>
@@ -53,11 +55,15 @@
                             Products
                         </a>
                         <ul class="dropdown-menu border-0 shadow-sm" aria-labelledby="productsDropdown">
-                            <li><a class="dropdown-item text-success" href="organic_manuyir.php">Organic Manuyir</a></li>
-                            <li><a class="dropdown-item text-success" href="Coriander_Seeds.php">Coriander Seeds</a></li>
+                            <li><a class="dropdown-item text-success" href="organic_manuyir.php">Organic Manure</a>
+                            </li>
+                            <li><a class="dropdown-item text-success" href="Coriander_Seeds.php">Coriander Seeds</a>
+                            </li>
                             <li><a class="dropdown-item text-success" href="Cashew.php">Kaju</a></li>
                             <li><a class="dropdown-item text-success" href="Fox_Nuts.php">Makhana</a></li>
                             <li><a class="dropdown-item text-success" href="Dryfruits.php">Dryfruits</a></li>
+                            <li><a class="dropdown-item text-success" href="prom.php">Prom</a></li>
+                            <li><a class="dropdown-item text-success" href="Biomass_Fuel_Pallets.php">Biomass Fuel Pallets</a></li>
                         </ul>
                     </li>
 
@@ -80,5 +86,3 @@
             </div>
         </div>
     </nav>
-
-    
