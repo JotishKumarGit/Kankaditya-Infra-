@@ -37,7 +37,7 @@
                     <h5 class="fw-bold mb-3">Contact Info</h5>
                     <p><i class="bi bi-geo-alt-fill me-2"></i> 394, Kalamkar colony Guna,473001</p>
                     <p><i class="bi bi-envelope-fill me-2"></i> <a href="mailto:kapilgolwalkar@gmail.com"
-                            class="text-white text-decoration-none">kapilgolwalkar@gmail.com</a></p>
+                            class="text-white text-decoration-none">Kankadityainfra@gmail.com</a></p>
                     <p><i class="bi bi-telephone-fill me-2"></i> +91 7000377300 || 9993216948</p>
                 </div>
 

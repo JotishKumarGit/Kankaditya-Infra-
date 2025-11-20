@@ -6,7 +6,7 @@
             <div class="d-flex align-items-center gap-3 small">
                 <i class="bi bi-envelope-fill"></i>
                 <a href="mailto:kapilgolwalkar@gmail.com" class="text-white text-decoration-none">
-                    kapilgolwalkar@gmail.com
+                   Kankadityainfra@gmail.com
                 </a>
                 <i class="bi bi-telephone-fill"></i>
                 <a href="tel:+917000377300" class="text-white text-decoration-none">
